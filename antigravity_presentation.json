@@ -1,0 +1,35 @@
+{
+  "title": "Antigravity Kit 2.0",
+  "slides": [
+    {
+      "slide_number": 1,
+      "page_type": "cover",
+      "content": "Antigravity Kit 2.0\nA Máquina de Automação Definitiva"
+    },
+    {
+      "slide_number": 2,
+      "page_type": "content",
+      "content": "Visão Geral do Antigravity Kit 2.0\n\n- Ecossistema de Inteligência Artificial completo projetado para maximizar a autonomia.\n- Transforma LLMs em Agentes de Software Autônomos com acesso ao sistema.\n- Gerencia contexto profundo persistente e invoca dezenas de habilidades especialistas (skills)."
+    },
+    {
+      "slide_number": 3,
+      "page_type": "content",
+      "content": "Habilidades Especialistas (Skills)\n\n- Mais de 100 skills carregadas para atuação em cenários específicos.\n- Desenvolvedores: frontend, backend, bancos de dados e linguagens (Rust, Go, Python).\n- Especialistas Cloud, DevOps, Segurança e Pentest.\n- Otimização de Growth, SEO e automação de marketing."
+    },
+    {
+      "slide_number": 4,
+      "page_type": "data",
+      "content": "Automação e Orquestração de Agentes\n\n- Subagent-driven-development: coordenar agentes em paralelo.\n- Infinite Gratitude: 10 agentes simultâneos para pesquisas profundas.\n- Agent Manager: Coordena múltiplos agentes locais rodando 24/7."
+    },
+    {
+      "slide_number": 5,
+      "page_type": "content",
+      "content": "Ferramentas de Produção Visual e Criativa\n\n- Produção multimídia completa de maneira programática.\n- NanoBanana PPT: Geração automática de apresentações ricas a partir de visão de IA.\n- Fal.ai & Hugging Face: Áudio, vídeos, upscaling de imagens e testes de LLMs.\n- Geração de UI com integração completa de componentes UI."
+    },
+    {
+      "slide_number": 6,
+      "page_type": "content",
+      "content": "Casos de Uso Reais (Cenários Práticos)\n\n1. Audite o código, corrija gargalos de performance e suba um PR.\n2. Faça scraping de concorrentes e reescreva documentação.\n3. Crie um app mobile Expo, depure via iOS debugger e faça mock com Supabase.\n4. Crie uma apresentação completa com imagens no NanoBanana."
+    }
+  ]
+}
